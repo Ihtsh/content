@@ -1,10 +1,11 @@
-name: "Content issue"
+name: "ihtshm itixammi"
 description: Report a problem with content on MDN.
 labels: ["needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
+
         ### Before you start
 
         **Want to change a page yourself?** This content is open source!
